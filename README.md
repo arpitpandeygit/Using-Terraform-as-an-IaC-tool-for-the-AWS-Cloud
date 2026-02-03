@@ -1198,7 +1198,7 @@ terraform-project-root/
 - Import existing resources carefully (plan after).
 - Enable detailed logs only when needed.
 
-## 8. Use HCP Terraform (Objective 8 – New Emphasis in 004)
+## 8. Use HCP Terraform (Objective 8)
 
 **HCP Terraform** (Terraform Cloud SaaS)
 
