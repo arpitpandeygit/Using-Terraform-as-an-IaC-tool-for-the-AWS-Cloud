@@ -1,0 +1,17 @@
+# Terraform
+**/.terraform/*
+**/*.tfstate
+**/*.tfstate.*
+**/terraform.tfvars
+
+# AWS
+**/.aws/*
+**/*credentials*
+**/*access-key*
+
+# OS
+.DS_Store
+
+# Node / misc (safety)
+node_modules/
+
